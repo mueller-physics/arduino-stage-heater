@@ -1,0 +1,4 @@
+theme: jekyll-theme-tactile
+title: Arduino-based microscope stage heater 
+description: A small, Arduino-based electric heater for microscope stages.
+show-downloads: false
